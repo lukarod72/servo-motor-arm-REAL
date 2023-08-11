@@ -1,0 +1,2 @@
+This project was completed in teh summer of 2023, at Plastcoat magna. Its purpose was to create a replica assembly line robot arm.
+This repo is used to continue the project further, and save it from my local computer. 
